@@ -1,0 +1,12 @@
+dash
+dash_bootstrap_components
+flask
+pandas
+numpy
+plotly
+scikit-learn
+umap-learn
+scipy
+pyarrow
+kneed
+xlsxwriter
